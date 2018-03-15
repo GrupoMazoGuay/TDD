@@ -1,0 +1,9 @@
+README.md
+repeticion/__init__.py
+repeticion/prueba.py
+sample/__init__.py
+sample/strings_example.py
+sample.egg-info/PKG-INFO
+sample.egg-info/SOURCES.txt
+sample.egg-info/dependency_links.txt
+sample.egg-info/top_level.txt

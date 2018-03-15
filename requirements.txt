@@ -1,0 +1,4 @@
+nose
+coverage
+mock
+stop-words
