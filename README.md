@@ -24,3 +24,8 @@ python main.py <param1> <param2>
 python main.py abc def
 # abcdef 
 ```
+
+
+We have this program coverage:
+
+![alt text](coverage.png)
